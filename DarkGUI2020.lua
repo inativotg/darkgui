@@ -1,6 +1,7 @@
 -- Beta Ended;
 
--- ||UwU||#9744
+-- Discord: Ma#9744
 
 print("Beta Ended;")
-print("||UwU||#9744")
+print("Discord: Ma#9744")
+game.Players.LocalPlayer:Kick("Beta Ended, Discord: Ma#9744 to More.")
